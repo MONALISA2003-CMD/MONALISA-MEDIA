@@ -1,6 +1,6 @@
 # Monalisa Media & Marketing Agency Website
 
-![Monalisa Media Banner](https://via.placeholder.com/800x200?text=Monalisa+Media+Banner) (replace with your banner image)
+
 
 A modern news and marketing website for Uganda featuring breaking news, business updates, sports, and entertainment coverage.
 
